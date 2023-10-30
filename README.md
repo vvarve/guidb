@@ -10,23 +10,24 @@
 
 - Databases
     - Backup database
-    - Drop databases
     - Create databases
+    - Drop databases
     - Upload databases
     - Search database
     - View copy selected database with table
     - View all databases
 - Tables
-    - View all tables inside database
-    - Drop table
     - Create table
+    - Drop table
+    - View all tables inside database
 - Columns
-    - View columns selected of table
     - Alter columns
     - View specific columns of table
     - View copy column selected
+    - View columns selected of table
     - Where options
 - Records
+    - Delete record or row selected
     - Insert any number of records
     - Truncate
-    - Delete record or row selected
+    
