@@ -8,25 +8,25 @@
 
 #### Functions:
 
-1. Databases
-    1. Backup database
-    1. Drop databases
-    2. Create databases
-    3. Upload databases
-    4. Search database
-    5. View copy selected database with table
-    6. View all databases
-2. Tables
-    1. View all tables inside database
-    2. Drop table
-    3. Create table
-3. Columns
-    1. View columns selected of table
-    2. Alter columns
-    3. View specific columns of table
-    4. View copy column selected
-    5. Where options
-4. Records
-   1. Insert any number of records
-   2. Truncate
-   3. Delete record or row selected
+- Databases
+    - Backup database
+    - Drop databases
+    - Create databases
+    - Upload databases
+    - Search database
+    - View copy selected database with table
+    - View all databases
+- Tables
+    - View all tables inside database
+    - Drop table
+    - Create table
+- Columns
+    - View columns selected of table
+    - Alter columns
+    - View specific columns of table
+    - View copy column selected
+    - Where options
+- Records
+    - Insert any number of records
+    - Truncate
+    - Delete record or row selected
